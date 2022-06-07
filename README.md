@@ -7,3 +7,4 @@ Hlo guys, my name is Gagandeep kaur and I have completed my graduation with bach
 
 Hii, my name is satinderbir kaur. I did my bachelor of computer science in 2019 from Guru Nanak Dev University, India. Currently, I am studying in lambton college under computer software and database development course . 
 
+hlo everyone, my name is harpreet kaur. i have done my bachelor and now i am pursuing my study in computer software.i have good communication skills and love singing.  

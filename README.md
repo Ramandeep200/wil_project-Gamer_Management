@@ -3,7 +3,7 @@ hello....everyone. my name is ramandeep kaur and i have done my BCA in BLM girls
 
 Hi everyone my name is Hardeep kaur chahal .I have completed my BCA from jain college Malerkotla in india. Now i am a student of Lambton college ,Toronto in canada.
 
-Hlo guys, my name is Gagandeep kaur and I have completed my graduation with bachelor of computer applications from Punjabi University,Patiala and now i am persuing my studies in Computer Software and Database Delvelopment at Lambton college,Toronto.
+Hlo guys, my name is Gagandeep kaur and I have completed my graduation with bachelor of computer applications from Punjabi University,Patiala (India) and now i am persuing my studies in Computer Software and Database Delvelopment at Lambton college,Toronto.
 
 Hii, my name is satinderbir kaur. I did my bachelor of computer science in 2019 from Guru Nanak Dev University, India. Currently, I am studying in lambton college under computer software and database development course . 
 

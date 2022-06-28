@@ -1,3 +1,5 @@
+ Ramandeep-kaur
+
 hello....everyone. my name is ramandeep kaur and i have done my BCA in BLM girls college. Punjab, india. now am persuing my studies in lambton college toronto,canada.
 
 
@@ -10,3 +12,4 @@ Hii, my name is satinderbir kaur. I did my bachelor of computer science in 2019 
 hlo everyone, my name is harpreet kaur. i have done my bachelor and now i am pursuing my study in computer software.i have good communication skills and love singing.  
 
 Good Morning, this is Nidhi Arora. I completed my graduation in Computers in 2016. After that I worked for three and a half years. Moreover, now looking for a stable career in Canada.
+ main

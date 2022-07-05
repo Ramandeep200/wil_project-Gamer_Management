@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import { BaseUrl } from "../components/BaseUrl";
 
 function Login() {
   const navigate = useNavigate();
@@ -20,14 +21,18 @@ function Login() {
   const handleClick = async e => {
     console.log("handleClick");
     e.preventDefault();
-    await axios.post("http://192.168.43.26:5200/api/users/login", {
+    // await axios.post("http://localhost:3000/api/users/login", {
+    await axios.post(`${BaseUrl}/api/users/login`, {
         'email':username,
         'password':password
       })
       .then(responce => {
         localStorage.setItem("token", responce.data.token);
         navigate("/");
-      });
+      }).catch(err => {
+        alert("Invalid username or password");
+      }
+      );
   };
   if (isLogedin) {
     navigate("/");

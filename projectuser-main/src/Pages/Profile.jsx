@@ -155,11 +155,11 @@ function Profile() {
                         </div>
                         <div className='row' style={{ marginTop: '1rem' }}>
                             <div className='col-md-4'>
-                            <label htmlFor='Depertment'>Depertment</label>
+                            <label htmlFor='Depertment'>Department</label>
                             </div>
                             <div className='col-md-8'>
                             <select className='form-control' id='Depertment' onChange={e => setDepartment(e.target.value)}>
-                                <option value={department}>{department}</option>
+                                <option value={department}>{department}select department</option>
                                 {Depertmens.map(depertment => (
                                     <option key={depertment._id} value={depertment.name}>{depertment.name}</option>
                                 ))}

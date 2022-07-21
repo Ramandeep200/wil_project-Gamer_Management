@@ -188,7 +188,7 @@ function Users() {
                             <th>First Name</th>
                             <th>Last Name</th>
                             <th>Role</th>
-                            <th>Deprement</th>
+                            <th>Department</th>
                         </tr>
                     </thead>
                     <tbody>
